@@ -1,9 +1,11 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MvcMovie1.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MvcMovie1.Controllers
 {
+    [Authorize]//se ejecuta el codigo que agregamos en el program
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
