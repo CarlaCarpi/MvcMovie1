@@ -29,7 +29,8 @@ namespace MvcMovie1.Controllers
 
                 HttpContext.SignInAsync("Cookies",  principal);
 
-                return RedirectToAction("Index","Home");  
+                // return RedirectToAction("Index","Home");  
+                return RedirectToAction("Principal", "Principal");
             }
             else
             {
