@@ -340,7 +340,7 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-S8UexpQF4nCQLlniqEe3ugwL7qXzjVA5BaGTTijZlS8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"203978"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022S8UexpQF4nCQLlniqEe3ugwL7qXzjVA5BaGTTijZlS8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 22:42:29 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"203978"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022S8UexpQF4nCQLlniqEe3ugwL7qXzjVA5BaGTTijZlS8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 22:36:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MvcMovie1/lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map'))</AssetFile>
@@ -358,7 +358,7 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lo8vp5h4wv"},{"Name":"integrity","Value":"sha256-S8UexpQF4nCQLlniqEe3ugwL7qXzjVA5BaGTTijZlS8="},{"Name":"label","Value":"_content/MvcMovie1/lib/bootstrap/dist/css/bootstrap.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"203978"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022S8UexpQF4nCQLlniqEe3ugwL7qXzjVA5BaGTTijZlS8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 22:42:29 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"203978"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022S8UexpQF4nCQLlniqEe3ugwL7qXzjVA5BaGTTijZlS8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 22:36:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MvcMovie1/lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css'))</AssetFile>
