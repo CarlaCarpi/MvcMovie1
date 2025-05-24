@@ -108,39 +108,15 @@
 
             <button type="submit" class="btn btn-pink">Cargar y obtener Usuarios</button>
         </form>
-    </div>
-
-    @if (ViewBag.ListaUsuario != null)
-    {
-        <div class="table-container">
-            <table class="table table-bordered">
-                <thead>
-                    <tr>
-                        <th>Id</th>
-                        <th>Username</th>
-                        <th>Email</th>
-                        <th>Name</th>
-                        <th>Fecha de Nacimiento</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @foreach (var usuario in ViewBag.ListaUsuario)
-                    {
-                        <tr>
-                            <td>@usuario.id</td>
-                            <td>@usuario.username</td>
-                            <td>@usuario.email</td>
-                            <td>@usuario.name</td>
-                            <td>@usuario.fechanacimiento</td>
-                        </tr>
-                    }
-                </tbody>
-            </table>
-        </div>
-    }
-
 </body>
 </html>
+
+
+@if (ViewBag.Mensaje != null)
+{
+    <h1 style="color:darkslategrey">@ViewBag.Mensaje </h1>
+}
+
 @if (ViewBag.Error != null)
 {
     <div class="alert alert-danger text-center mt-4" style="background-color: #f8bbd0; color: #880e4f; border: 1px solid #ec407a; border-radius: 10px; font-weight: bold;">

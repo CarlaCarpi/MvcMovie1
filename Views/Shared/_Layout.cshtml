@@ -25,6 +25,25 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
+                    <style>
+                    .btn-pink {
+                       background-color: #ec407a;
+                       color: white;
+                       width: 100%;
+                       padding: 10px;
+                       font-weight: bold;
+                       border: none;
+                       border-radius: 30px;
+                       transition: background-color 0.3s ease;
+                    }
+                    </style>
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <form asp-controller="Login" asp-action="Logout" method="post" class="d-inline">
+                                <button type="submit" class="btn btn-pink">Logout</button>
+                            </form>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </nav>
