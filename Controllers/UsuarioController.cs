@@ -36,7 +36,7 @@ namespace MvcMovie1.Controllers
                         id = reader.GetInt32(0),
                         username = reader.GetString(1),
                         name = reader.GetString(2),
-                        fechanacimiento = Convert.ToDateTime(reader.GetString(3)),
+                        fechanacimiento = reader.GetDateTime(3),
                         email = reader.GetString(4),
                         password = reader.GetString(5)
 
@@ -156,7 +156,7 @@ namespace MvcMovie1.Controllers
                     usuario.id = reader.GetInt32(0);
                     usuario.username = reader.GetString(1);
                     usuario.name = reader.GetString(2);
-                    usuario.fechanacimiento = Convert.ToDateTime(reader.GetString(3));
+                    usuario.fechanacimiento = reader.GetDateTime(3);
                     usuario.email = reader.GetString(4);
                     usuario.password = reader.GetString(5);
                 

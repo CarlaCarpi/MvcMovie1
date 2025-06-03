@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TWdd/ScdR/ia/AQ7V2bkSRGSkTY3l0LWFa1Jzjv5ZLw=",
+  "Hash": "SJMFi1vAMaVlAsQTQ6BiN3WGck27BwiHBrNMkEtuNmU=",
   "Source": "MvcMovie1",
   "BasePath": "_content/MvcMovie1",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\wwwroot\\images\\novetech.png",
+      "SourceId": "MvcMovie1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\wwwroot\\",
+      "BasePath": "_content/MvcMovie1",
+      "RelativePath": "images/novetech#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yl384qgyvp",
+      "Integrity": "uo92hdaR18Hzyy2QZZk3ylN8uDRCzdtFfJ9RRUjcw3g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\novetech.png"
     },
     {
       "Identity": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\wwwroot\\images\\th.jpeg",
@@ -1502,6 +1523,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/novetech.png",
+      "AssetFile": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\wwwroot\\images\\novetech.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uo92hdaR18Hzyy2QZZk3ylN8uDRCzdtFfJ9RRUjcw3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 01:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uo92hdaR18Hzyy2QZZk3ylN8uDRCzdtFfJ9RRUjcw3g="
+        }
+      ]
+    },
+    {
+      "Route": "images/novetech.yl384qgyvp.png",
+      "AssetFile": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\wwwroot\\images\\novetech.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uo92hdaR18Hzyy2QZZk3ylN8uDRCzdtFfJ9RRUjcw3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 01:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yl384qgyvp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/novetech.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uo92hdaR18Hzyy2QZZk3ylN8uDRCzdtFfJ9RRUjcw3g="
         }
       ]
     },

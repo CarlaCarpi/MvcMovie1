@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\wwwroot\\images\\novetech.png",
+      "PackagePath": "staticwebassets\\images\\novetech.png"
+    },
+    {
       "Id": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\wwwroot\\images\\th.jpeg",
       "PackagePath": "staticwebassets\\images\\th.jpeg"
     },

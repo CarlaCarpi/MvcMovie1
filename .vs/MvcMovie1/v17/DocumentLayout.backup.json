@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\principal\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\principal\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|c:\\users\\carla\\source\\repos\\mvcmovie1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{982256DE-3644-4BFC-A540-234D6CEA852D}|MvcMovie1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Principal.cshtml",
+              "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Principal\\Principal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Principal\\Principal.cshtml",
+              "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Principal\\Principal.cshtml",
+              "RelativeToolTip": "Views\\Principal\\Principal.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T00:49:04.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T00:47:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Usuario\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
               "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Usuario\\Index.cshtml",
               "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAAApwGkAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-31T21:54:23.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T21:54:23.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -63,8 +94,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAAABsAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-31T21:43:38.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T21:43:38.575Z"
             },
             {
               "$type": "Document",
@@ -74,59 +104,57 @@
               "RelativeDocumentMoniker": "Views\\Login\\Login.cshtml",
               "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Login\\Login.cshtml",
               "RelativeToolTip": "Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-31T21:41:47.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T21:41:47.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Lista.cshtml",
               "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Usuario\\Lista.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuario\\Lista.cshtml",
               "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Usuario\\Lista.cshtml",
               "RelativeToolTip": "Views\\Usuario\\Lista.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-24T15:39:21.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAgwHEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwDUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T22:34:57.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Usuario\\Editar.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuario\\Editar.cshtml",
               "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Views\\Usuario\\Editar.cshtml",
               "RelativeToolTip": "Views\\Usuario\\Editar.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAFYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-31T20:28:41.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T20:28:41.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "UsuarioModel.cs",
               "DocumentMoniker": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Models\\UsuarioModel.cs",
               "RelativeDocumentMoniker": "Models\\UsuarioModel.cs",
               "ToolTip": "C:\\Users\\carla\\source\\repos\\MvcMovie1\\Models\\UsuarioModel.cs",
               "RelativeToolTip": "Models\\UsuarioModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T22:27:21.411Z",
               "EditorCaption": ""
