@@ -138,7 +138,7 @@ namespace MvcMovie1.Controllers
 
         //y este se encarga de ir a bucar los datos del usuario específico
         //Para mostrar los datos y permitirme en el front modificarlos
-          
+        //revisado
         public IActionResult Editar(int id)
         {
             UsuarioModel usuario = new UsuarioModel();
